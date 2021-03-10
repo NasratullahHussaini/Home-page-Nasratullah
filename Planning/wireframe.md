@@ -1,4 +1,4 @@
 ## Wireframe 
 
-![wirefram](https://user-images.githubusercontent.com/63416723/110673176-bf718280-81d0-11eb-9084-13a769742ad7.png)
+![new wireframe](https://user-images.githubusercontent.com/63416723/110674180-eed4bf00-81d1-11eb-8205-373a8f6ad490.png)
 
